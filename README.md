@@ -1,0 +1,1 @@
+# Sentiment Analysis on 2022 Brazilian Election Tweets
